@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://fengzhihao.github.io
-title: My Octopress Blog
+url: http://fengzhihao.github.com.
+title: FengZhiHao's Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
-simple_search: https://www.google.com/search
+simple_search: https://www.google.com.hk/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -95,7 +95,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+# google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
